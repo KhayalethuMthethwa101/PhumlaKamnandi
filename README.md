@@ -18,6 +18,9 @@ To run the Phumla Kamnandi application, follow these steps:
    - Build the solution (Ctrl+Shift+B).
    - Run the application (F5).
    - The application will start, and you will be directed to the login screen.
+4. Authors:
+   - Samukelile Lama
+   - Khayalethu Mthethwa 
 
 ## Login Credentials
 
